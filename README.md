@@ -2,9 +2,6 @@
 
 ## Tezkor ishga tushirish
 
-### Windows
-`start_windows.bat` faylini **ikki marta bosing**
-
 ### Mac / Linux
 ```bash
 chmod +x start_mac.sh
@@ -14,6 +11,9 @@ chmod +x start_mac.sh
 Brauzerda oching: **http://localhost:8000**
 
 ---
+
+### Windows
+`start_windows.bat` faylini **ikki marta bosing**
 
 ## Qo'lda o'rnatish
 
